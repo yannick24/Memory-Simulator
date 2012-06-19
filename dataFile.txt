@@ -1,0 +1,14 @@
+# Joblist.txt
+# Lines that start with ‘#’ are to be considered comments and should be skipped
+
+#Job number#		#Job size# 		#Execution time#
+1			6100K			12 fortnights
+2			300K			3 fortnights
+3			2100K			11 fortnights
+4			5510K			1 fortnight
+5			7140K			4 fortnights
+6			110K			5 fortnights
+7			1210K			20 fortnights
+8			4105K			7 fortnights
+
+# and many more lines possible (arbitrary)
